@@ -1,0 +1,26 @@
+/* estilos generales */
+
+/* Mi pagina*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #EAEDED;
+    font-family: Arial, sans-serif;
+}
+
+.contenedor {
+    margin: auto;
+    width: 90%;
+    max-width: 1000px;
+}
+
+main article {
+    background: #fff;
+    margin: 20px 0;
+    padding: 20px;
+    height: 1000px;
+}
